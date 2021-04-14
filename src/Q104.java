@@ -3,10 +3,9 @@ import bean.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
-// 中序遍历
-public class Q92 {
+public class Q104 {
 
-    public List<Integer> inorderTraversal(TreeNode root) {
+    public List<Integer> preorderTraversal(TreeNode root) {
         return recursion(root, new ArrayList<>());
     }
 
@@ -14,8 +13,8 @@ public class Q92 {
         if (node == null) {
             return list;
         }
-        recursion(node.left, list);
         list.add(node.val);
+        recursion(node.left, list);
         recursion(node.right, list);
         return list;
     }
