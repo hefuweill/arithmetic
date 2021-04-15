@@ -3,7 +3,7 @@ import bean.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Q104 {
+public class Q144 {
 
     public List<Integer> preorderTraversal(TreeNode root) {
         return recursion(root, new ArrayList<>());
