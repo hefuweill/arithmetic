@@ -1,5 +1,6 @@
 package utils;
 
+import bean.ListNode;
 import bean.TreeNode;
 
 import java.util.LinkedList;
@@ -46,6 +47,24 @@ public class Utils {
             index++;
         }
         return root;
+    }
+
+    /**
+     * 根据给定数组创建链表
+     * @param values 链表每个节点值
+     * @return 头节点
+     */
+    public static ListNode createLinkedList(int[] values) {
+        if (values == null || values.length == 0) {
+            return null;
+        }
+        ListNode head = new ListNode();
+        ListNode curr = head;
+        for (int value: values) {
+            curr.next = new ListNode(value);
+            curr = curr.next;
+        }
+        return head.next;
     }
 
     public static void main(String[] args) {
