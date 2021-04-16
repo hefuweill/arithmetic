@@ -18,6 +18,7 @@
 | 2021-04-16 | [106. 从中序与后序遍历序列构造二叉树](src/Q106.java) |
 | 2021-04-16 | [114. 二叉树展开为链表](src/Q114.java) |
 | 2021-04-16 | [1. 两数之和](src/Q1.java) |
+| 2021-04-16 | [2. 两数相加](src/Q2.java) |
 
 ### 树
 
@@ -38,6 +39,7 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
+| [2. 两数相加](src/Q2.java)  | 简单 | [题目](https://leetcode-cn.com/problems/add-two-numbers/)
 | [206. 反转链表](src/Q206.java)  | 简单 | [题目](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 ### 散列表
