@@ -60,11 +60,4 @@ public class Q106 {
         return node;
     }
 
-    public static void main(String[] args) {
-        TreeNode node = new Q106().buildTree(
-                new int[]{9,3,15,20,7},
-                new int[]{9,15,7,20,3}
-        );
-        System.out.println(node);
-    }
 }
