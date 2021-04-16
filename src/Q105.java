@@ -10,9 +10,6 @@ import bean.TreeNode;
 public class Q105 {
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        if (preorder.length == 0) {
-            return null;
-        }
         return recursion(
                 preorder,
                 inorder,
