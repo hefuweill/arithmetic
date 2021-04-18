@@ -19,6 +19,9 @@
 | 2021-04-16 | [114. 二叉树展开为链表](src/Q114.java) |
 | 2021-04-16 | [1. 两数之和](src/Q1.java) |
 | 2021-04-16 | [2. 两数相加](src/Q2.java) |
+| 2021-04-17 | [226. 翻转二叉树](src/Q226.java) |
+| 2021-04-17 | [257. 二叉树的所有路径](src/Q257.java) |
+| 2021-04-18 | [112. 路径总和](src/Q112.java) |
 
 ### 树
 
@@ -31,9 +34,12 @@
 | [105. 从前序与中序遍历序列构造二叉树](src/Q105.java) | 中等 | [题目](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 | [106. 从中序与后序遍历序列构造二叉树](src/Q106.java) | 中等 | [题目](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 | [111. 二叉树的最小深度](src/Q111.java) | 简单 | [题目](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+| [112. 路径总和](src/Q112.java) | 简单 | [题目](https://leetcode-cn.com/problems/path-sum/)
 | [114. 二叉树展开为链表](src/Q114.java) | 中等 | [题目](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 | [144. 二叉树的前序遍历](src/Q144.java) | 中等 | [题目](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 | [145. 二叉树的后序遍历](src/Q145.java) | 中等 | [题目](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+| [226. 翻转二叉树](src/Q226.java) | 简单 | [题目](https://leetcode-cn.com/problems/invert-binary-tree/)
+| [257. 二叉树的所有路径](src/Q257.java) | 简单 | [题目](https://leetcode-cn.com/problems/binary-tree-paths/)
 
 ### 链表
 
