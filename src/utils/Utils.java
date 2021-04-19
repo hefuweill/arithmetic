@@ -17,46 +17,35 @@ public class Utils {
         if (values.length <= 0) {
             return null;
         }
-        Queue<TreeNode> queue1 = new LinkedList<>();
-        Queue<TreeNode> queue2 = new LinkedList<>();
         int index = 0;
         TreeNode root = new TreeNode(values[0]);
-        queue1.add(root);
-        while (!queue1.isEmpty()) {
-            while (!queue1.isEmpty()) {
-                TreeNode node = queue1.poll();
-                if (node != null) {
-                    int leftIndex = 2 * index + 1;
-                    int rightIndex = 2 * index + 2;
-                    // check sub node exist
-                    if (leftIndex < values.length) {
-                        if (values[leftIndex] == null) {
-                            // left sub node not exist
-                            queue2.add(null);
-                        } else {
-                            // left sub node exist
-                            TreeNode left = new TreeNode(values[leftIndex]);
-                            node.left = left;
-                            queue2.add(left);
-                        }
-                    }
-                    if (rightIndex < values.length) {
-                        if (values[rightIndex] == null) {
-                            // right sub node not exist
-                            queue2.add(null);
-                        } else {
-                            // right sub node exist
-                            TreeNode right = new TreeNode(values[rightIndex]);
-                            node.right = right;
-                            queue2.add(right);
-                        }
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+            if (node != null) {
+                int leftIndex = 2 * index + 1;
+                int rightIndex = 2 * index + 2;
+                if (leftIndex < values.length) {
+                    if (values[leftIndex] == null) {
+                        queue.add(null);
+                    } else {
+                        TreeNode left = new TreeNode(values[leftIndex]);
+                        node.left = left;
+                        queue.add(left);
                     }
                 }
-                index++;
+                if (rightIndex < values.length) {
+                    if (values[rightIndex] == null) {
+                        queue.add(null);
+                    } else {
+                        TreeNode right = new TreeNode(values[rightIndex]);
+                        node.right = right;
+                        queue.add(right);
+                    }
+                }
             }
-            Queue<TreeNode> tempNode = queue1;
-            queue1 = queue2;
-            queue2 = tempNode;
+            index++;
         }
         return root;
     }

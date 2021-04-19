@@ -6,7 +6,7 @@
 
 |  完成时间  | 题目 |
 |  ----  | ---- | 
-| 2021-04-12 | [94. 二叉树的中序遍历](src/Q92.java) |
+| 2021-04-12 | [94. 二叉树的中序遍历](src/Q94.java) |
 | 2021-04-13 | [102. 二叉树的层序遍历](src/Q102.java) |
 | 2021-04-14 | [144. 二叉树的前序遍历](src/Q144.java) |
 | 2021-04-15 | [145. 二叉树的后序遍历](src/Q145.java) |
@@ -25,12 +25,13 @@
 | 2021-04-19 | [剑指 Offer 26. 树的子结构](src/JQ26.java) |
 | 2021-04-19 | [剑指 Offer 27. 二叉树的镜像](src/JQ27.java) |
 | 2021-04-19 | [剑指 Offer 28. 对称的二叉树](src/JQ28.java) |
+| 2021-04-19 | [92. 反转链表 II](src/Q92.java) |
 
 ### 树
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
-| [94. 二叉树的中序遍历](src/Q92.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+| [94. 二叉树的中序遍历](src/Q94.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 | [100. 相同的树](src/Q100.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/same-tree/)
 | [102. 二叉树的层序遍历](src/Q102.java) | 中等 | [leetcode](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 | [104. 二叉树的最大深度](src/Q104.java) | 简单 | [leetcode](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
@@ -52,6 +53,7 @@
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [2. 两数相加](src/Q2.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/add-two-numbers/)
+| [92. 反转链表 II](src/Q92.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 | [206. 反转链表](src/Q206.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 ### 散列表
