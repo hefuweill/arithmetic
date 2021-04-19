@@ -26,6 +26,7 @@
 | 2021-04-19 | [剑指 Offer 27. 二叉树的镜像](src/JQ27.java) |
 | 2021-04-19 | [剑指 Offer 28. 对称的二叉树](src/JQ28.java) |
 | 2021-04-19 | [92. 反转链表 II](src/Q92.java) |
+| 2021-04-19 | [21. 合并两个有序链表](src/Q21.java) |
 
 ### 树
 
@@ -53,6 +54,7 @@
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [2. 两数相加](src/Q2.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/add-two-numbers/)
+| [21. 合并两个有序链表](src/Q21.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 | [92. 反转链表 II](src/Q92.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 | [206. 反转链表](src/Q206.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list/)
 
