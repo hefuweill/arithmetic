@@ -30,6 +30,9 @@
 | 2021-04-20 | [108. 将有序数组转换为二叉搜索树](src/Q108.java) |
 | 2021-04-20 | [55. 跳跃游戏](src/Q55.java) |
 | 2021-04-20 | [45. 跳跃游戏II](src/Q45.java) |
+| 2021-04-20 | [45. 跳跃游戏II](src/Q45.java) |
+| 2021-04-20 | [217. 存在重复元素](src/Q217.java) |
+| 2021-04-20 | [219. 存在重复元素 II](src/Q219.java) |
 
 ### 树
 
@@ -62,11 +65,13 @@
 | [92. 反转链表 II](src/Q92.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 | [206. 反转链表](src/Q206.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list/)
 
-### 散列表
+### 哈希表
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [1. 两数之和](src/Q1.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/two-sum/)
+| [217. 存在重复元素](src/Q217.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/contains-duplicate/)
+| [219. 存在重复元素 II](src/Q219.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/contains-duplicate-ii/)
 
 ### 贪心
 
