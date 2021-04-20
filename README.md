@@ -28,6 +28,7 @@
 | 2021-04-19 | [92. 反转链表 II](src/Q92.java) |
 | 2021-04-19 | [21. 合并两个有序链表](src/Q21.java) |
 | 2021-04-20 | [108. 将有序数组转换为二叉搜索树](src/Q108.java) |
+| 2021-04-20 | [55. 跳跃游戏](src/Q55.java) |
 
 ### 树
 
@@ -65,3 +66,9 @@
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [1. 两数之和](src/Q1.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/two-sum/)
+
+### 贪心
+
+|  题目   | 难度  | 来源 |
+|  ----  | ----  | ----  |
+| [55. 跳跃游戏](src/Q55.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/jump-game/solution/tiao-yue-you-xi-by-leetcode-solution/)

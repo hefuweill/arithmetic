@@ -69,7 +69,7 @@ public class Utils {
     }
 
     public static void main(String[] args) {
-        Integer[] values = {3, 9, 20, null, null, 15, 7};
+        Integer[] values = {1, null, 2, 2};
         TreeNode root = createBinaryTree(values);
         System.out.println(root);
     }
