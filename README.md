@@ -71,4 +71,5 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
-| [55. 跳跃游戏](src/Q55.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/jump-game/solution/tiao-yue-you-xi-by-leetcode-solution/)
+| [45. 跳跃游戏 II](src/Q45.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/jump-game-ii/)
+| [55. 跳跃游戏](src/Q55.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/jump-game/)
