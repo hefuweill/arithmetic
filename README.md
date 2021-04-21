@@ -33,6 +33,7 @@
 | 2021-04-20 | [45. 跳跃游戏II](src/Q45.java) |
 | 2021-04-20 | [217. 存在重复元素](src/Q217.java) |
 | 2021-04-20 | [219. 存在重复元素 II](src/Q219.java) |
+| 2021-04-21 | [121. 买卖股票的最佳时机](src/Q121.java) |
 
 ### 树
 
@@ -79,3 +80,10 @@
 |  ----  | ----  | ----  |
 | [45. 跳跃游戏 II](src/Q45.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/jump-game-ii/)
 | [55. 跳跃游戏](src/Q55.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/jump-game/)
+
+### 动态规划
+
+|  题目   | 难度  | 来源 |
+|  ----  | ----  | ----  |
+| [121. 买卖股票的最佳时机](src/Q121.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+
