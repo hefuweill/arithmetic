@@ -34,6 +34,7 @@
 | 2021-04-20 | [219. 存在重复元素 II](src/Q219.java) |
 | 2021-04-21 | [121. 买卖股票的最佳时机](src/Q121.java) |
 | 2021-04-22 | [122. 买卖股票的最佳时机](src/Q122.java) |
+| 2021-04-23 | [70. 爬楼梯](src/Q70.java) |
 
 ### 树
 
@@ -85,6 +86,7 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
+| [70. 爬楼梯](src/Q70.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/climbing-stairs/)
 | [121. 买卖股票的最佳时机](src/Q121.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 | [122. 买卖股票的最佳时机II](src/Q122.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
