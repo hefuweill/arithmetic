@@ -36,6 +36,7 @@
 | 2021-04-22 | [122. 买卖股票的最佳时机II](src/Q122.java) |
 | 2021-04-23 | [70. 爬楼梯](src/Q70.java) |
 | 2021-04-24 | [62. 不同路径](src/Q62.java) |
+| 2021-04-25 | [303. 区域和检索 - 数组不可变](src/Q303.java) |
 
 ### 树
 
@@ -91,4 +92,5 @@
 | [70. 爬楼梯](src/Q70.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/climbing-stairs/)
 | [121. 买卖股票的最佳时机](src/Q121.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 | [122. 买卖股票的最佳时机II](src/Q122.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+| [303. 区域和检索 - 数组不可变](src/Q303.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 
