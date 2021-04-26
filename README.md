@@ -40,6 +40,7 @@
 | 2021-04-25 | [303. 区域和检索 - 数组不可变](src/Q303.java) |
 | 2021-04-26 | [198. 打家劫舍](src/Q198.java) |
 | 2021-04-27 | [213. 打家劫舍 II](src/Q213.java) |
+| 2021-04-27 | [938. 二叉搜索树的范围和](src/Q938.java) |
 
 ### 树
 
@@ -59,6 +60,7 @@
 | [145. 二叉树的后序遍历](src/Q145.java) | 中等 | [leetcode](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 | [226. 翻转二叉树](src/Q226.java) | 简单 | [leetcode](https://leetcode-cn.com/problems/invert-binary-tree/)
 | [257. 二叉树的所有路径](src/Q257.java) | 简单 | [leetcode](https://leetcode-cn.com/problems/binary-tree-paths/)
+| [938. 二叉搜索树的范围和](src/Q938.java) | 简单 | [leetcode](https://leetcode-cn.com/problems/range-sum-of-bst/)
 | [剑指 Offer 26. 树的子结构](src/JQ26.java) | 中等 | [剑指 Offer](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
 | [剑指 Offer 27. 二叉树的镜像](src/JQ27.java) | 简单 | [剑指 Offer](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)
 | [剑指 Offer 28. 对称的二叉树](src/JQ28.java) | 简单 | [剑指 Offer](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
