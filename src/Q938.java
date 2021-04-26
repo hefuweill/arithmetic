@@ -3,9 +3,6 @@ import bean.TreeNode;
 public class Q938 {
 
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) {
-            return 0;
-        }
         return recursion(root, low, high);
     }
 
