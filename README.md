@@ -42,6 +42,7 @@
 | 2021-04-27 | [213. 打家劫舍 II](src/Q213.java) |
 | 2021-04-27 | [938. 二叉搜索树的范围和](src/Q938.java) |
 | 2021-04-28 | [300. 最长递增子序列](src/Q300.java) |
+| 2021-04-29 | [53. 最大子序和](src/Q53.java) |
 
 ### 树
 
@@ -94,6 +95,7 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
+| [53. 最大子序和](src/Q53.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/maximum-subarray/)
 | [62. 不同路径](src/Q62.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/unique-paths/)
 | [63. 不同路径II](src/Q63.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/unique-paths-ii/)
 | [70. 爬楼梯](src/Q70.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/climbing-stairs/)
