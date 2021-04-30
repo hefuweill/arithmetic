@@ -43,6 +43,7 @@
 | 2021-04-27 | [938. 二叉搜索树的范围和](src/Q938.java) |
 | 2021-04-28 | [300. 最长递增子序列](src/Q300.java) |
 | 2021-04-29 | [53. 最大子序和](src/Q53.java) |
+| 2021-04-30 | [78. 子集](src/Q78.java) |
 
 ### 树
 
@@ -106,3 +107,8 @@
 | [300. 最长递增子序列](src/Q300.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 | [303. 区域和检索 - 数组不可变](src/Q303.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 
+### 回溯算法
+
+|  题目   | 难度  | 来源 |
+|  ----  | ----  | ----  |
+| [78. 子集](src/Q78.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/subsets/)
