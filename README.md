@@ -47,6 +47,8 @@
 | 2021-05-01 | [46. 全排列](src/Q46.java) |
 | 2021-05-01 | [47. 全排列 II](src/Q47.java) |
 | 2021-05-01 | [77. 组合](src/Q77.java) |
+| 2021-05-02 | [39. 组合总和](src/Q39.java) |
+| 2021-05-02 | [40. 组合总和 II](src/Q40.java) |
 
 ### 树
 
@@ -114,6 +116,8 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
+| [39. 组合总和](src/Q39.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combination-sum/)
+| [40. 组合总和 II](src/Q40.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combination-sum-ii/)
 | [46. 全排列](src/Q46.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/permutations/)
 | [47. 全排列 II](src/Q47.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/permutations-ii/solution/quan-pai-lie-ii-by-leetcode-solution/)
 | [77. 组合](src/Q77.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combinations/)
