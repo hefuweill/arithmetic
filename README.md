@@ -49,12 +49,14 @@
 | 2021-05-01 | [77. 组合](src/Q77.java) |
 | 2021-05-02 | [39. 组合总和](src/Q39.java) |
 | 2021-05-02 | [40. 组合总和 II](src/Q40.java) |
+| 2021-05-03 | R[96. 不同的二叉搜索树](src/Q96.java) |
 
 ### 树
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [94. 二叉树的中序遍历](src/Q94.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+| [96. 不同的二叉搜索树](src/Q96.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 | [100. 相同的树](src/Q100.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/same-tree/)
 | [102. 二叉树的层序遍历](src/Q102.java) | 中等 | [leetcode](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 | [104. 二叉树的最大深度](src/Q104.java) | 简单 | [leetcode](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
@@ -105,6 +107,7 @@
 | [62. 不同路径](src/Q62.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/unique-paths/)
 | [63. 不同路径II](src/Q63.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/unique-paths-ii/)
 | [70. 爬楼梯](src/Q70.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/climbing-stairs/)
+| [96. 不同的二叉搜索树](src/Q96.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 | [121. 买卖股票的最佳时机](src/Q121.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 | [122. 买卖股票的最佳时机II](src/Q122.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 | [198. 打家劫舍](src/Q198.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/house-robber/)
