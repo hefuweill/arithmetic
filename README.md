@@ -52,6 +52,7 @@
 | 2021-05-02 | [39. 组合总和](src/Q39.java) |
 | 2021-05-02 | [40. 组合总和 II](src/Q40.java) |
 | 2021-05-03 | R [96. 不同的二叉搜索树](src/Q96.java) |
+| 2021-05-04 | R [22. 括号生成](src/Q22.java) |
 
 ### 树
 
@@ -121,6 +122,7 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
+| [22. 括号生成](src/Q22.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/generate-parentheses/)
 | [39. 组合总和](src/Q39.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combination-sum/)
 | [40. 组合总和 II](src/Q40.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combination-sum-ii/)
 | [46. 全排列](src/Q46.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/permutations/)
