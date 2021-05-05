@@ -53,6 +53,7 @@
 | 2021-05-02 | [40. 组合总和 II](src/Q40.java) |
 | 2021-05-03 | R [96. 不同的二叉搜索树](src/Q96.java) |
 | 2021-05-04 | [22. 括号生成](src/Q22.java) |
+| 2021-05-05 | R [1143. 最长公共子序列](src/Q1143.java) |
 
 ### 树
 
@@ -129,3 +130,4 @@
 | [47. 全排列 II](src/Q47.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/permutations-ii/solution/quan-pai-lie-ii-by-leetcode-solution/)
 | [77. 组合](src/Q77.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combinations/)
 | [78. 子集](src/Q78.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/subsets/)
+| [1143. 最长公共子序列](src/Q1143.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/longest-common-subsequence/)
