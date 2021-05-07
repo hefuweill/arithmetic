@@ -55,6 +55,7 @@
 | 2021-05-04 | [22. 括号生成](src/Q22.java) |
 | 2021-05-05 | R [1143. 最长公共子序列](src/Q1143.java) |
 | 2021-05-06 | R [322. 零钱兑换](src/Q322.java) |
+| 2021-05-07 | [146. LRU 缓存机制](src/Q146.java) |
 
 ### 树
 
@@ -133,3 +134,9 @@
 | [78. 子集](src/Q78.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/subsets/)
 | [322. 零钱兑换](src/Q322.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/coin-change/)
 | [1143. 最长公共子序列](src/Q1143.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/longest-common-subsequence/)
+
+### 数据结构
+
+|  题目   | 难度  | 来源 |
+|  ----  | ----  | ----  |
+| [146. LRU 缓存机制](src/Q146.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/lru-cache/)
