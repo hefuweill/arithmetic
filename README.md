@@ -56,6 +56,7 @@
 | 2021-05-05 | R [1143. 最长公共子序列](src/Q1143.java) |
 | 2021-05-06 | R [322. 零钱兑换](src/Q322.java) |
 | 2021-05-07 | [146. LRU 缓存机制](src/Q146.java) |
+| 2021-05-08 | [37. 解数独](src/Q37.java) |
 
 ### 树
 
@@ -126,6 +127,7 @@
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [22. 括号生成](src/Q22.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/generate-parentheses/)
+| [37. 解数独](src/Q37.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/sudoku-solver/)
 | [39. 组合总和](src/Q39.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combination-sum/)
 | [40. 组合总和 II](src/Q40.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/combination-sum-ii/)
 | [46. 全排列](src/Q46.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/permutations/)
