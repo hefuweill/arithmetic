@@ -57,6 +57,7 @@
 | 2021-05-06 | R [322. 零钱兑换](src/Q322.java) |
 | 2021-05-07 | [146. LRU 缓存机制](src/Q146.java) |
 | 2021-05-08 | [37. 解数独](src/Q37.java) |
+| 2021-05-09 | [3. 无重复字符的最长子串](src/Q3.java) |
 
 ### 树
 
@@ -136,6 +137,11 @@
 | [78. 子集](src/Q78.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/subsets/)
 | [322. 零钱兑换](src/Q322.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/coin-change/)
 | [1143. 最长公共子序列](src/Q1143.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/longest-common-subsequence/)
+
+### 滑动窗口
+|  题目   | 难度  | 来源 |
+|  ----  | ----  | ----  |
+| [3. 无重复字符的最长子串](src/Q3.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 ### 数据结构
 
