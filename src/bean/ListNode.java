@@ -11,4 +11,13 @@ public class ListNode {
         this.val = val;
         this.next = next;
     }
+
+    @Override
+    public String toString() {
+        if (next == null) {
+            return val + " => null";
+        } else {
+            return val + " => " + next.toString();
+        }
+    }
 }
