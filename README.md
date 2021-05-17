@@ -66,6 +66,7 @@
 | 2021-05-15 | [148. 排序链表](src/Q148.java) |
 | 2021-05-15 | [160. 相交链表](src/Q160.java) |
 | 2021-05-16 | [5. 最长回文子串](src/Q5.java) |
+| 2021-05-17 | [14. 最长公共前缀](src/Q14.java) |
 
 ### 树
 
@@ -96,6 +97,7 @@
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [2. 两数相加](src/Q2.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/add-two-numbers/)
+| [14. 最长公共前缀](src/Q14.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/longest-common-prefix/)
 | [21. 合并两个有序链表](src/Q21.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 | [23. 合并K个升序链表](src/Q23.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 | [92. 反转链表 II](src/Q92.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
