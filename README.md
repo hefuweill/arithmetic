@@ -69,6 +69,7 @@
 | 2021-05-17 | [14. 最长公共前缀](src/Q14.java) |
 | 2021-05-18 | [76. 最小覆盖子串](src/Q76.java) |
 | 2021-05-19 | [354. 俄罗斯套娃信封问题](src/Q354.java) |
+| 2021-05-20 | [674. 最长连续递增序列](src/Q674.java) |
 
 ### 树
 
@@ -174,6 +175,7 @@
 |  ----  | ----  | ----  |
 | [54. 螺旋矩阵](src/Q54.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/spiral-matrix/)
 | [354. 俄罗斯套娃信封问题](src/Q354.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/russian-doll-envelopes/)
+| [674. 最长连续递增序列](src/Q674.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 
 
 ### 数据结构
