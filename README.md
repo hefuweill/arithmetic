@@ -70,6 +70,7 @@
 | 2021-05-18 | [76. 最小覆盖子串](src/Q76.java) |
 | 2021-05-19 | [354. 俄罗斯套娃信封问题](src/Q354.java) |
 | 2021-05-20 | [674. 最长连续递增序列](src/Q674.java) |
+| 2021-05-21 | [128. 最长连续序列](src/Q128.java) |
 
 ### 树
 
@@ -174,8 +175,9 @@
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [54. 螺旋矩阵](src/Q54.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/spiral-matrix/)
+| [128. 最长连续序列](src/Q128.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 | [354. 俄罗斯套娃信封问题](src/Q354.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/russian-doll-envelopes/)
-| [674. 最长连续递增序列](src/Q674.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
+| [674. 最长连续递增序列](src/Q674.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 
 
 ### 数据结构
