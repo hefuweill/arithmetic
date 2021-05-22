@@ -73,6 +73,7 @@
 | 2021-05-21 | [128. 最长连续序列](src/Q128.java) |
 | 2021-05-21 | [11. 盛最多水的容器](src/Q11.java) |
 | 2021-05-21 | [4. 寻找两个正序数组的中位数](src/Q4.java) |
+| 2021-05-22 | [26. 删除有序数组中的重复项](src/Q26.java) |
 
 ### 树
 
@@ -178,6 +179,7 @@
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
+| [26. 删除有序数组中的重复项](src/Q26.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 | [54. 螺旋矩阵](src/Q54.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/spiral-matrix/)
 | [128. 最长连续序列](src/Q128.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 | [354. 俄罗斯套娃信封问题](src/Q354.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/russian-doll-envelopes/)
