@@ -74,6 +74,8 @@
 | 2021-05-21 | [11. 盛最多水的容器](src/Q11.java) |
 | 2021-05-21 | [4. 寻找两个正序数组的中位数](src/Q4.java) |
 | 2021-05-22 | [26. 删除有序数组中的重复项](src/Q26.java) |
+| 2021-05-23(补) | R [560. 和为K的子数组](src/Q560.java) |
+| 2021-05-24 | [167. 两数之和 II - 输入有序数组](src/Q167.java) |
 
 ### 树
 
@@ -121,6 +123,7 @@
 | [1. 两数之和](src/Q1.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/two-sum/)
 | [217. 存在重复元素](src/Q217.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/contains-duplicate/)
 | [219. 存在重复元素 II](src/Q219.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/contains-duplicate-ii/)
+| [560. 和为K的子数组](src/Q560.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
 ### 贪心
 
@@ -174,6 +177,7 @@
 | [4. 寻找两个正序数组的中位数](src/Q4.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 | [11. 盛最多水的容器](src/Q11.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/container-with-most-water/)
 | [15. 三数之和](src/Q15.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/3sum/)
+| [167. 两数之和 II - 输入有序数组](src/Q167.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ### 数组
 
