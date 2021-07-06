@@ -4,13 +4,19 @@ public class RQ55 {
         if (nums == null || nums.length <= 1) {
             return true;
         }
-        int maxIndex = nums[0];
-        for (int i = 1; i < nums.length; i++) {
-            if (i > maxIndex) {
-                return false;
+        int max = nums[0];
+        int index = 1;
+        while (index <= max) {
+            max = Math.max(max, index + nums[index]);
+            if (max >= nums.length - 1) {
+                return true;
             }
-            maxIndex = Math.max(maxIndex, i + nums[i]);
         }
-        return true;
+        return false;
+    }
+
+    public static void main(String[] args) {
+        int[] array = new int[]{2, 3, 1, 1, 4};
+        System.out.println(new RQ55().canJump(array));
     }
 }
