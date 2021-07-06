@@ -3,7 +3,7 @@ import java.util.Stack;
 /**
  * 注意判断栈是否为空，关键
  */
-public class RQ20 {
+public class Q20 {
 
     public boolean isValid(String s) {
         char[] array = s.toCharArray();

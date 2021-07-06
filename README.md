@@ -78,6 +78,8 @@
 | 2021-05-24 | [167. 两数之和 II - 输入有序数组](src/Q167.java) |
 | 2021-05-25 | [18. 四数之和](src/Q18.java) |
 | 2021-05-26 | [R55. 跳跃游戏](src/RQ55.java) |
+| 2021-07-06 | [20. 有效的括号](src/Q20.java) |
+| 2021-07-06 | [71. 简化路径](src/Q71.java) |
 | 2021-07-06 | [695. 岛屿的最大面积](src/Q695.java) |
 
 ### 树
@@ -193,15 +195,22 @@
 | [354. 俄罗斯套娃信封问题](src/Q354.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/russian-doll-envelopes/)
 | [674. 最长连续递增序列](src/Q674.java)  | 困难 | [leetcode](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 
-### DFS
+### 栈
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
-| [695. 岛屿的最大面积](src/Q695.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/max-area-of-island/)
-
+| [20. 有效的括号](src/Q20.java)  | 简单 | [leetcode](https://leetcode-cn.com/problems/max-area-of-island/)
 
 ### 数据结构
 
 |  题目   | 难度  | 来源 |
 |  ----  | ----  | ----  |
 | [146. LRU 缓存机制](src/Q146.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/lru-cache/)
+| [71. 简化路径](src/Q71.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/simplify-path/)
+
+
+### DFS
+
+|  题目   | 难度  | 来源 |
+|  ----  | ----  | ----  |
+| [695. 岛屿的最大面积](src/Q695.java)  | 中等 | [leetcode](https://leetcode-cn.com/problems/max-area-of-island/)
